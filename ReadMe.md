@@ -2,6 +2,12 @@
 
 Hot module reload for express server and webpack client.
 
+# Clone locally
+
+```
+git clone https://github.com/easychessanimations/hmr.git
+```
+
 # Open in gitpod
 
 [hmr gitpod terminal](https://gitpod.io/#https://github.com/easychessanimations/hmr)
