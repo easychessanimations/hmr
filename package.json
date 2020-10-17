@@ -26,7 +26,8 @@
     "url": "https://github.com/easychessanimations/fooweb.git"
   },
   "dependencies": {
-    "@easychessanimations/foo": "^1.0.18"
+    "@easychessanimations/foo": "^1.0.18",
+    "express": "^4.17.1"    
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
@@ -37,11 +38,11 @@
     "css-loader": "^5.0.0",
     "file-loader": "^6.1.1",
     "html-webpack-plugin": "^4.5.0",
-    "node-fetch": "^2.6.1",
     "open": "^7.3.0",
     "style-loader": "^2.0.0",
     "webpack": "^5.1.3",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.0",
+    "node-fetch": "^2.6.1"
   }
 }
