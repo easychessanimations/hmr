@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[remote "github"]
+	url = https://easychessanimations@github.com/easychessanimations/fooweb.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "gitlab"]
+	url = https://easychessanimations@gitlab.com/easychessanimations/fooweb.git
+	fetch = +refs/heads/*:refs/remotes/gitlab/*
+[user]
+	name = easychessanimations
+	email = chessbotroulette@gmail.com
+	[credential "https://easychessanimations@github.com/easychessanimations/fooweb.git"]
+		username = easychessanimations
+	[credential "https://easychessanimations@gitlab.com/easychessanimations/fooweb.git"]
+		username = easychessanimations
