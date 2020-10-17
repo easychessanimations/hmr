@@ -2,6 +2,8 @@
 
 Hot module reload for express server and webpack client.
 
+Project is prepared for deployment on Heroku.
+
 # Clone locally
 
 ```
