@@ -23,3 +23,6 @@ npm run build
 
 node devserver.js
 ```
+
+When the development server is running, modifying any file in `src` would rebuild the client and reload the page, 
+modifying any file in `server` would reload the server and the page.
