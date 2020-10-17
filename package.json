@@ -26,7 +26,7 @@
     "url": "https://github.com/easychessanimations/fooweb.git"
   },
   "dependencies": {
-    "@easychessanimations/foo": "^1.0.11"
+    "@easychessanimations/foo": "^1.0.18"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
